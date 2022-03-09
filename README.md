@@ -1,4 +1,5 @@
-# WebSocket example: Whiteboard with client websocket service
+# The WebSocket Chat assignment done at NTNU: 
+Whiteboard with client websocket service
 
 ## Setup database connections
 
